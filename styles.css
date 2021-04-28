@@ -1,5 +1,18 @@
+
+body {
+    background: url(https://inspirationfeed.com/wp-content/uploads/2015/11/Deep-Green-Grass-Texture-1-e1446674541799.jpg);
+    font-family:futura;
+}
+p {
+    font-family: 'Open Sans';
+}
+.container {
+    background: white;
+    padding: 0;
+}
 a{
     text-decoration:none;
     color:red;
+    font-family:'Stick';
 
 }
