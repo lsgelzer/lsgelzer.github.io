@@ -16,3 +16,8 @@ a{
     font-family:'Stick';
 
 }
+svg {
+    max-width: 200px;
+    max-height: 200px;
+    margin: 20px auto;
+}
